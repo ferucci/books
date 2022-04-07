@@ -33,14 +33,7 @@ listItembook2[9].after(listItembook2[2]);
 newLi.insertAdjacentText('beforeend', 'Глава 8: За пределами ES6');
 
 bookList[2].append(newLi);
+newLi.after(listItembook6[9]);
 
 
 
-console.log(listItembook6);
-
-
-
-// console.log(body);
-// console.log(titleBag);
-// console.log(books);
-console.log(book);
